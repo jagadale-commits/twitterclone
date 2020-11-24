@@ -1,8 +1,8 @@
 # Twitterclone
 
 ## Description
-
-An in-depth paragraph about your project and overview of use.
+  
+  This is a Simple twitter clone I developed using this tutorial : https://www.youtube.com/watch?v=n1mdAPFq2Os&ab_channel=freeCodeCamp.org
 
 ### Technologies Used : GraphQl 
 
