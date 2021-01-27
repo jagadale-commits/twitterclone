@@ -1,5 +1,7 @@
 # Twitterclone
 
+### Deployed on Netlify : https://silly-mcclintock-6f7e8b.netlify.app/
+
 ## Description
   
   This is a Simple twitter clone I developed using this tutorial : https://www.youtube.com/watch?v=n1mdAPFq2Os&ab_channel=freeCodeCamp.org
@@ -11,5 +13,5 @@
 * GraphQL Apollo Server
 * Semamtic UI
  
-### Link to Netlify : https://silly-mcclintock-6f7e8b.netlify.app/
+
 
